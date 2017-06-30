@@ -7,7 +7,7 @@ How can you improve your existing solution? If that is possible, what would your
   
 
 What is the complexity class  (P, NP, NP-complete, etc) of this problem ?
-  This problem is a class NP problem.
+  This problem is a NP class problem.
   
   
  
